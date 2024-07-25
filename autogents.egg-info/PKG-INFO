@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: autogents
+Version: 0.1.0
+Summary: Autonomous Agents for Asynchronous Messaging
+Author: Kostas Touloupas
+Author-email: kostastoulou@gamil.com
+Requires-Python: >=3.7
+License-File: LICENSE.md
