@@ -1,0 +1,10 @@
+LICENSE.md
+README.md
+setup.py
+autogents/__init__.py
+autogents/agent.py
+autogents/messages.py
+autogents.egg-info/PKG-INFO
+autogents.egg-info/SOURCES.txt
+autogents.egg-info/dependency_links.txt
+autogents.egg-info/top_level.txt
